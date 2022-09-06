@@ -15,13 +15,6 @@ class Stack:c v
   def pop(self) -> None:
     # Write your code here
 
-  def status(self):
-    print
-    """
-    It prints all the elements of stack.
-    """
-    # Write your code here  
-
 
 # Do not change the following code
 stack = Stack()
