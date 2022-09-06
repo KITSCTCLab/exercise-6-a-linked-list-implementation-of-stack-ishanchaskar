@@ -4,7 +4,7 @@ class Node:
     self.next = None
 
 
-class Stack:
+class Stack:c v 
   def __init__(self):
     self.head = None
 
