@@ -15,6 +15,7 @@ class Stack:c v
     # Write your code here
 
   def status(self):
+    print
     """
     It prints all the elements of stack.
     """
